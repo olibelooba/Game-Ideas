@@ -1,5 +1,5 @@
 import pyxel, random, time
-"""Tu as pour mission de sauver la monkey d'une pluie de banana en la guidant hors de danger en évitant chacune d'entre-elles"""
+"""Tu as pour mission d'aider le monkey à arreter une pluie de banane de tomber par terre et purrir en les mangeant"""
 taille_fenetre=256
 pyxel.init(taille_fenetre, taille_fenetre, title="Astroide reign")
 pyxel.load("res2newcopy.pyxres")
